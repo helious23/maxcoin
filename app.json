@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "max-coin",
+    "slug": "max-coin",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "max-coin"
+}
