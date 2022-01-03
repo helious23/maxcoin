@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "735547353287",
+    "project_id": "max-coin-b14a8",
+    "storage_bucket": "max-coin-b14a8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:735547353287:android:b24dd0c62d926e790cb6e2",
+        "android_client_info": {
+          "package_name": "com.maxcoin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "735547353287-9arb09j89e975qgmqf6g9uum944s32nu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.maxcoin",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "735547353287-2cnhlev91e106ajasfpn9r0d3h5mfsuq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCAle6CyBHrXHFZujS0uzc91ZWvhKqgDgs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "735547353287-2cnhlev91e106ajasfpn9r0d3h5mfsuq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
