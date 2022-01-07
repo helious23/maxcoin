@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">max-coin</string>
+    <string name="facebook_app_id">455411109513898</string>
+    <string name="facebook_client_token">35c8ceba6e900c3a347735c775e93525</string>
 </resources>

@@ -45,5 +45,8 @@ target 'maxcoin' do
       Pod::UI.warn e
     end
   end
+  
+  pod 'GoogleSignIn', '~> 6.0.2'
+  pod 'FBSDKLoginKit'
 
 end
